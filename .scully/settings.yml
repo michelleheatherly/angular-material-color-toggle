@@ -1,0 +1,12 @@
+identifier: l6fepbv9b2ifidz8
+appPort: 1864
+staticPort: 1668
+reloadPort: 2667
+hostName: localhost
+projectName: angular-material-color-toggle
+homeFolder: D:\Documents\angular-dark-light-toggle\angular-material-color-toggle
+distFolder: ./dist/angular-material-color-toggle
+outDir: >-
+  D:\Documents\angular-dark-light-toggle\angular-material-color-toggle\dist\static
+handle404: ''
+allowErrorCollect: false
