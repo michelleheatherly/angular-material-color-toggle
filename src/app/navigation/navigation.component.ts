@@ -17,4 +17,9 @@ export class NavigationComponent {
     protected toggleSidenav() {
         this.sidenavService.toggle()
     }
+
+    protected toggleColorMode() {
+        this.navigationService.toggleColorMode();
+        this.dark = this.navigationService.getDark();
+    }
 }
